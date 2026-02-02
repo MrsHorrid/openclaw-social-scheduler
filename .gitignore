@@ -1,0 +1,4 @@
+node_modules/
+storage/queue.json
+*.log
+.DS_Store

@@ -4,11 +4,11 @@
   "description": "Free open-source social media scheduler CLI for OpenClaw agents - Discord, Reddit, Twitter/X, Mastodon, Bluesky, Moltbook",
   "main": "scripts/schedule.js",
   "bin": {
-    "social-post": "./scripts/post.js",
-    "social-schedule": "./scripts/schedule.js",
-    "social-queue": "./scripts/queue.js",
-    "social-thread": "./scripts/thread.js",
-    "social-media": "./scripts/upload-media.js"
+    "social-post": "scripts/post.js",
+    "social-schedule": "scripts/schedule.js",
+    "social-queue": "scripts/queue.js",
+    "social-thread": "scripts/thread.js",
+    "social-media": "scripts/upload-media.js"
   },
   "scripts": {
     "schedule": "node scripts/schedule.js",

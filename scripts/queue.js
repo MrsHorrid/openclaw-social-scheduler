@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Queue Manager - Handles scheduled post storage and retrieval
  */

@@ -22,7 +22,7 @@ Schedule posts to Discord, Reddit, Twitter/X, Mastodon, Bluesky, and Moltbook - 
 ### Global Install (Recommended)
 
 ```bash
-npm install -g @openclaw/social-scheduler
+npm install -g openclaw-social-scheduler
 ```
 
 After installation, you'll have these CLI commands:
@@ -35,7 +35,7 @@ After installation, you'll have these CLI commands:
 ### Local Install
 
 ```bash
-npm install @openclaw/social-scheduler
+npm install openclaw-social-scheduler
 ```
 
 Or clone this repo:

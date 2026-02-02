@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw/social-scheduler",
+  "name": "openclaw-social-scheduler",
   "version": "1.0.0",
   "description": "Free open-source social media scheduler CLI for OpenClaw agents - Discord, Reddit, Twitter/X, Mastodon, Bluesky, Moltbook",
   "main": "scripts/schedule.js",
